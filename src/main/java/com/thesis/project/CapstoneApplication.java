@@ -16,8 +16,8 @@ public class CapstoneApplication {
         staticFileLocation("/public");
         staticFiles.externalLocation("resources/");
         if (args.length == 0) {
-            new ProjectController(DB_CONNSTR_LOCAL);
-            new ProjectRestController(DB_CONNSTR_LOCAL);
+            new ProjectController(DB_CONNSTR_ATLAST);
+            new ProjectRestController(DB_CONNSTR_ATLAST);
         }
         else {
             new ProjectController(args[0]);
