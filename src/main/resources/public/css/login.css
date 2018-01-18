@@ -1,0 +1,43 @@
+.Signin{
+    text-align: center !important;
+    margin-top: 50px !important;
+    font-size: 50px !important;
+    margin-bottom: -30px !important;
+    font-family: montserrat !important;
+}
+.bkg{
+    /*background-image: url("images/login.jpg");*/
+}
+.btn-login{
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+    margin-left: 150px !important;
+    padding: 10px 91px 10px 91px !important;
+}
+.btn-login:hover{
+    background-color: #138496;
+    border-color: #138496;
+
+}
+.nav-header{
+    background-color: #3a4147 !important;
+    font-family: montserrat !important;
+}
+.nav-linkN{
+    color: #ffffff !important;
+    font-family: montserrat !important;
+}
+.nav-linkN:hover{
+    color: #000000 !important;
+}
+.loginbox1{
+    margin-top:180px;
+    margin-left: 300px;
+    padding-bottom: 1%;
+    border-radius: 22px;
+    background-color: rgba(255, 255, 255,1);
+}
+.top-space1{
+    margin-top: -3%;
+}
+

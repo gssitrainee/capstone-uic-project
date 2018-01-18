@@ -1,0 +1,79 @@
+.Signin{
+    text-align: center !important;
+    margin-top: 50px !important;
+    font-size: 50px !important;
+    margin-bottom: -30px !important;
+    font-family: montserrat !important;
+}
+.bkg{
+
+}
+.btn-login{
+    margin-left: 150px !important;
+    padding: 10px 91px 10px 91px !important;
+}
+.nav-header{
+    background-color: #3a4147 !important;
+    font-family: montserrat !important;
+}
+.nav-linkN{
+    color: #ffffff !important;
+    font-family: montserrat !important;
+}
+.nav-linkN:hover{
+    color: #000000 !important;
+}
+.loginbox1{
+    margin-top:180px;
+    margin-left: 300px;
+}
+.top-space1{
+    margin-top: 60px !important;
+}
+.footerwrapper {
+    display: none;
+    background: #c8cdd4 none repeat scroll 0 0;
+    border-top: 5px solid #f5f5f5;
+    color: #727c8a;
+    margin-top:  16%;
+    font-family: montserrat !important;
+    overflow: auto;
+    padding: 2rem;
+    width: 100%;
+}
+
+.footer-menu-container .menu {
+    border-right: 1px solid #b5b6db;
+    float: left;
+    margin-right: 2rem;
+    width: 30%;
+}
+
+.footer-menu-container {
+    margin: 0 auto;
+    width: 70rem;
+}
+
+.menu a {
+    display: block;
+    margin-bottom: 1rem;
+    color:#727c8a;
+    text-decoration: none;
+}
+.menu a:hover {
+    text-decoration: underline;
+}
+.footer-copyright {
+    background: #008aff none repeat scroll 0 0;
+    padding: 1rem;
+    margin-top: 30%;
+    width: 100%;
+}
+
+.footer-copyright p {
+    color: #d7d7d7;
+    text-align: center;
+}
+.size{
+    width: 85.25rem !important;
+}
